@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCore8.0DinamikPortfolyoProjesi2024VSCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e307bd5c0e55712a45ebaa34d4b35c2dabaa1e23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9804f1ffbabff1c48172e4b5c36c81b9ba4eeeed")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCore8.0DinamikPortfolyoProjesi2024VSCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCore8.0DinamikPortfolyoProjesi2024VSCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
