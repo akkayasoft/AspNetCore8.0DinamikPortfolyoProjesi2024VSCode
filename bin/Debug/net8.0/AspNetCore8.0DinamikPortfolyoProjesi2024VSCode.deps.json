@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AspNetCore8.0DinamikPortfolyoProjesi2024VSCode/1.0.0": {
+        "runtime": {
+          "AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCore8.0DinamikPortfolyoProjesi2024VSCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
