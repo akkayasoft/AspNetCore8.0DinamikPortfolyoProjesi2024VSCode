@@ -8,31 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\gapBilisim\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/user/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gapBilisim\\Desktop\\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.csproj",
+      "projectUniqueName": "/home/user/AspNetCore8.0DinamikPortfolyoProjesi2024VSCode/AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.csproj",
       "projectName": "AspNetCore8.0DinamikPortfolyoProjesi2024VSCode",
-      "projectPath": "C:\\Users\\gapBilisim\\Desktop\\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.csproj",
-      "packagesPath": "C:\\Users\\gapBilisim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gapBilisim\\Desktop\\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\\obj\\",
+      "projectPath": "/home/user/AspNetCore8.0DinamikPortfolyoProjesi2024VSCode/AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.csproj",
+      "packagesPath": "/home/user/.nuget/packages/",
+      "outputPath": "/home/user/AspNetCore8.0DinamikPortfolyoProjesi2024VSCode/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gapBilisim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/user/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -74,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/nix/store/kwihhgnc34rwx14qrmh281spzlbh8gs9-dotnet-sdk-8.0.101/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
