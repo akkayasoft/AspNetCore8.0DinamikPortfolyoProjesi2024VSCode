@@ -28,3 +28,4 @@ C:\Users\gapBilisim\Desktop\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\obj\D
 C:\Users\gapBilisim\Desktop\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\obj\Debug\net8.0\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.pdb
 C:\Users\gapBilisim\Desktop\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\obj\Debug\net8.0\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.genruntimeconfig.cache
 C:\Users\gapBilisim\Desktop\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\obj\Debug\net8.0\ref\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.dll
+C:\Users\gapBilisim\Desktop\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode\obj\Debug\net8.0\AspNetCore8.0DinamikPortfolyoProjesi2024VSCode.sourcelink.json
